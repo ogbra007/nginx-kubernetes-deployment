@@ -25,4 +25,4 @@ It covers key DevOps concepts such as:
 kubectl create deployment nginx --image=nginx
 ## 📸 Screenshots
 ![Pods](./k8s-pods.jpeg)
-![NGINX](.nginx-page.jpeg)
+![NGINX](./nginx-page.jpeg)

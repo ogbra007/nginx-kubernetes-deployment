@@ -19,10 +19,13 @@ It covers key DevOps concepts such as:
 ---
 
 ## ⚙️ What I Implemented
-
 ### 1. Created a Deployment
+
 ```bash
 kubectl create deployment nginx --image=nginx
+```
+
 ## 📸 Screenshots
-![Pods](./k8s-pods.jpeg)
+
+![pods](./k8s-pods.jpeg)
 ![NGINX](./nginx-page.jpeg)
